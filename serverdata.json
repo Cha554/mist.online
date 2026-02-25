@@ -1,13 +1,13 @@
 {
-  "min-CXS-version": "3.0.7",
+  "min-CXS-version": "4.0.0",
   "admins": [
     {
-      "name": "ExampleAdmin",
-      "user-id": "REPLACE_WITH_STEAM_OR_OCULUS_USER_ID"
+      "name": "cha",
+      "user-id": "USER_ID"
     },
     {
-      "name": "AnotherAdmin",
-      "user-id": "REPLACE_WITH_ANOTHER_USER_ID"
+      "name": "twig",
+      "user-id": "USER_ID"
     }
   ],
   "super-admins": [
@@ -15,4 +15,5 @@
     "twig"
   ]
 }
+
 
