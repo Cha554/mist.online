@@ -1,0 +1,16 @@
+{
+  "min-CXS-version": "3.0.7",
+  "admins": [
+    {
+      "name": "ExampleAdmin",
+      "user-id": "REPLACE_WITH_STEAM_OR_OCULUS_USER_ID"
+    },
+    {
+      "name": "AnotherAdmin",
+      "user-id": "REPLACE_WITH_ANOTHER_USER_ID"
+    }
+  ],
+  "super-admins": [
+    "ExampleAdmin"
+  ]
+}
