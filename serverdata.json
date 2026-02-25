@@ -11,6 +11,8 @@
     }
   ],
   "super-admins": [
-    "ExampleAdmin"
+    "cha",
+    "twig"
   ]
 }
+
