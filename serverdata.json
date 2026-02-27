@@ -4,12 +4,10 @@
     {
       "name": "cha",
       "user-id": "E954BED6D2130401"
-      "Menu" : "Spectral"
     },
     {
       "name": "tortise",
       "user-id": "6442C363781033F3"
-      "Menu" : "Violet"
     }
   ],
   "super-admins": [
@@ -17,6 +15,7 @@
     "twig"
   ]
 }
+
 
 
 
